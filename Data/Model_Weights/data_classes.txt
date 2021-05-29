@@ -1,5 +1,4 @@
  "cover_image" 
- "cover_image"
  "hero_left" 
  "hero_right" 
  "navbar" 
